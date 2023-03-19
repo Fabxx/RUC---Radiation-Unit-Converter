@@ -5,17 +5,17 @@ Simple program that allows you to convert radiation units.
 
 -Per hour:
 
- -Roentgen to Sievert
+ Roentgen to Sievert
 
- -Sievert to Roentgen
+ Sievert to Roentgen
  
 -Roentgen Equivalent Man:
 
-  -rem to Sievert
+  rem to Sievert
 
 -"milli" units per hour:
 
- -mSieverts to mRoentgen
+ mSieverts to mRoentgen
  
  # NOTE:
 If some formulas are incorrect, please report it and they will be fixed.
