@@ -28,4 +28,4 @@ A future UI is planned with graphical charts, with a cross-platform API.
 the program will automatically display the available units.
 
 # Info chart
-![](graphical chart.png)
+![](I.R.Chart.png)
