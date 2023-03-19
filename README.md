@@ -26,3 +26,6 @@ A future UI is planned with graphical charts, with a cross-platform API.
 ```./main <initial_unit> <final_unit> <number>```
 
 the program will automatically display the available units.
+
+# Info chart
+![](graphical chart.png)
