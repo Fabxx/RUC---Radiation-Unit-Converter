@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cmath>
 #include <cstring>
-#include <ctype.h>
-
 
 //TODO: add micro and milli per hour
 class units
