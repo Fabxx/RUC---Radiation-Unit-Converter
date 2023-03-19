@@ -77,7 +77,7 @@ int main(int argc, char *argv[])
     std::cout << "Roentgen/h from Sievert/h: " << obj->RoentgenToSievertH() << std::endl;
     if ((strcmp(argv[1], "sv") == 0) && (strcmp(argv[2], "rem") == 0))
     std::cout << "rem from Sievert:" << obj->SievertToRem() << std::endl;
-    if ((strcmp(argv[1], "mR") == 0) && (strcmp(argv[2], "mSv") == 0))
+    if ((strcmp(argv[1], "mr") == 0) && (strcmp(argv[2], "msv") == 0))
     std::cout << "milli Sieverts from milli Roentgen:" << obj->mRoentgenTomSievert() << std::endl;
     
     delete obj;
